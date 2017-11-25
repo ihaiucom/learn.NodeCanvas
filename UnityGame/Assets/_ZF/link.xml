@@ -1,0 +1,76 @@
+<linker>
+	<assembly fullname="Assembly-CSharp", preserve="all">
+	<assembly fullname="mscorlib">
+		<type fullname="System.Boolean" preserve="all"/>
+		<type fullname="System.Single" preserve="all"/>
+		<type fullname="System.Int32" preserve="all"/>
+		<type fullname="System.Boolean" preserve="all"/>
+		<type fullname="System.Int32" preserve="all"/>
+		<type fullname="System.Object" preserve="all"/>
+		<type fullname="System.Single" preserve="all"/>
+		<type fullname="System.String" preserve="all"/>
+		<type fullname="System.Type" preserve="all"/>
+	</assembly>
+	<assembly fullname="UnityEngine">
+		<type fullname="UnityEngine.Vector2" preserve="all"/>
+		<type fullname="UnityEngine.Vector3" preserve="all"/>
+		<type fullname="UnityEngine.Vector4" preserve="all"/>
+		<type fullname="UnityEngine.Quaternion" preserve="all"/>
+		<type fullname="UnityEngine.Keyframe" preserve="all"/>
+		<type fullname="UnityEngine.Bounds" preserve="all"/>
+		<type fullname="UnityEngine.Color" preserve="all"/>
+		<type fullname="UnityEngine.Rect" preserve="all"/>
+		<type fullname="UnityEngine.ContactPoint" preserve="all"/>
+		<type fullname="UnityEngine.ContactPoint2D" preserve="all"/>
+		<type fullname="UnityEngine.Collision" preserve="all"/>
+		<type fullname="UnityEngine.Collision2D" preserve="all"/>
+		<type fullname="UnityEngine.RaycastHit" preserve="all"/>
+		<type fullname="UnityEngine.RaycastHit2D" preserve="all"/>
+		<type fullname="UnityEngine.Ray" preserve="all"/>
+		<type fullname="UnityEngine.Space" preserve="all"/>
+		<type fullname="UnityEngine.LayerMask" preserve="all"/>
+		<type fullname="UnityEngine.Animation" preserve="all"/>
+		<type fullname="UnityEngine.AnimationClip" preserve="all"/>
+		<type fullname="UnityEngine.AnimationCurve" preserve="all"/>
+		<type fullname="UnityEngine.Animator" preserve="all"/>
+		<type fullname="UnityEngine.Application" preserve="all"/>
+		<type fullname="UnityEngine.AudioClip" preserve="all"/>
+		<type fullname="UnityEngine.AudioSource" preserve="all"/>
+		<type fullname="UnityEngine.Camera" preserve="all"/>
+		<type fullname="UnityEngine.CharacterController" preserve="all"/>
+		<type fullname="UnityEngine.Collider" preserve="all"/>
+		<type fullname="UnityEngine.Collider2D" preserve="all"/>
+		<type fullname="UnityEngine.Color" preserve="all"/>
+		<type fullname="UnityEngine.Debug" preserve="all"/>
+		<type fullname="UnityEngine.GameObject" preserve="all"/>
+		<type fullname="UnityEngine.Input" preserve="all"/>
+		<type fullname="UnityEngine.LayerMask" preserve="all"/>
+		<type fullname="UnityEngine.Light" preserve="all"/>
+		<type fullname="UnityEngine.Mathf" preserve="all"/>
+		<type fullname="UnityEngine.Object" preserve="all"/>
+		<type fullname="UnityEngine.Physics" preserve="all"/>
+		<type fullname="UnityEngine.Physics2D" preserve="all"/>
+		<type fullname="UnityEngine.PlayerPrefs" preserve="all"/>
+		<type fullname="UnityEngine.Quaternion" preserve="all"/>
+		<type fullname="UnityEngine.Random" preserve="all"/>
+		<type fullname="UnityEngine.RaycastHit" preserve="all"/>
+		<type fullname="UnityEngine.RaycastHit2D" preserve="all"/>
+		<type fullname="UnityEngine.Rigidbody" preserve="all"/>
+		<type fullname="UnityEngine.Rigidbody2D" preserve="all"/>
+		<type fullname="UnityEngine.Sprite" preserve="all"/>
+		<type fullname="UnityEngine.Texture2D" preserve="all"/>
+		<type fullname="UnityEngine.Time" preserve="all"/>
+		<type fullname="UnityEngine.Transform" preserve="all"/>
+		<type fullname="UnityEngine.Vector2" preserve="all"/>
+		<type fullname="UnityEngine.Vector3" preserve="all"/>
+		<type fullname="UnityEngine.Vector4" preserve="all"/>
+		<type fullname="UnityEngine.AI.NavMesh" preserve="all"/>
+		<type fullname="UnityEngine.AI.NavMeshAgent" preserve="all"/>
+	</assembly>
+	<assembly fullname="UnityEngine.UI">
+		<type fullname="UnityEngine.UI.CanvasScaler+Unit" preserve="all"/>
+		<type fullname="UnityEngine.UI.Button" preserve="all"/>
+		<type fullname="UnityEngine.UI.Slider" preserve="all"/>
+		<type fullname="UnityEngine.UI.CanvasScaler+Unit" preserve="all"/>
+	</assembly>
+</linker>
